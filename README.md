@@ -73,9 +73,6 @@ Medulloblastoma-Microarray-Analysis/
 │   ├── figures/
 │   └── tables/
 │
-├── docs/
-│   └── README.md
-│
 ├── README.md
 └── .gitignore
 ```
