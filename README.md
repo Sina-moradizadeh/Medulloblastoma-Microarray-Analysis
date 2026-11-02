@@ -121,7 +121,7 @@ The results of the analysis are visualized using several graphical approaches.
 
 ### Volcano Plot
 
-![Volcano Plot](results/figures/05_Volcano_Plot.png)
+![Volcano Plot](results/figures/KEGG_Plot2.png)
 
 ### Functional Enrichment
 
