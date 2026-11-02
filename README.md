@@ -119,7 +119,7 @@ The following table presents selected genes from the differential expression ana
 
 The results of the analysis are visualized using several graphical approaches.
 
-### Volcano Plot
+### GO Plot
 
 ![Volcano Plot](results/figures/GO_dotplot.png)
 
