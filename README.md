@@ -127,8 +127,6 @@ The results of the analysis are visualized using several graphical approaches.
 
 ![KEGG Enrichment](results/figures/KEGG_Plot_2.png)
 
-*Note: Replace the image paths above with the exact filenames available in the results/figures directory. PNG images are recommended for embedding in GitHub README files.*
-
 ---
 
 ## Functional Enrichment Analysis
